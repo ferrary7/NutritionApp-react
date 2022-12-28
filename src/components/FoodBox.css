@@ -1,0 +1,46 @@
+.box{
+  width: 600px;
+  background-color: rgb(234, 239, 234);
+}
+
+.flex{
+  display: flex;
+}
+
+img{
+  width: 64px;
+  height: 64px;
+}
+
+.media{
+  display:flex;
+  justify-content: space-between;
+}
+
+.fieldhas-addons{
+  margin-right: 30px;
+  margin-top: 30px;
+  display: flex;
+}
+
+.content{
+  margin-top:30px;
+}
+
+.input{
+  border-color: orchid;
+}
+
+.buttonis-info{
+  background-color: orchid;
+  color:white;
+}
+
+.button-reset{
+  margin-top:10px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 40px;
+}
